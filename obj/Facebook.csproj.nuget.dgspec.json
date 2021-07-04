@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdelrahman\\Desktop\\Git\\MvcFaceBookProject\\Facebook.csproj": {}
+    "C:\\Users\\Abdelrahman\\Desktop\\Work & CV new\\Projects\\WEP\\Mini facebook\\MvcFaceBookProject\\Facebook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdelrahman\\Desktop\\Git\\MvcFaceBookProject\\Facebook.csproj": {
+    "C:\\Users\\Abdelrahman\\Desktop\\Work & CV new\\Projects\\WEP\\Mini facebook\\MvcFaceBookProject\\Facebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdelrahman\\Desktop\\Git\\MvcFaceBookProject\\Facebook.csproj",
+        "projectUniqueName": "C:\\Users\\Abdelrahman\\Desktop\\Work & CV new\\Projects\\WEP\\Mini facebook\\MvcFaceBookProject\\Facebook.csproj",
         "projectName": "Facebook",
-        "projectPath": "C:\\Users\\Abdelrahman\\Desktop\\Git\\MvcFaceBookProject\\Facebook.csproj",
+        "projectPath": "C:\\Users\\Abdelrahman\\Desktop\\Work & CV new\\Projects\\WEP\\Mini facebook\\MvcFaceBookProject\\Facebook.csproj",
         "packagesPath": "C:\\Users\\Abdelrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdelrahman\\Desktop\\Git\\MvcFaceBookProject\\obj\\",
+        "outputPath": "C:\\Users\\Abdelrahman\\Desktop\\Work & CV new\\Projects\\WEP\\Mini facebook\\MvcFaceBookProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
